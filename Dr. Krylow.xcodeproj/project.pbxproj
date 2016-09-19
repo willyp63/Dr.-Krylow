@@ -16,9 +16,6 @@
 		7A610BE31BE16D67009C980A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A610BE21BE16D67009C980A /* main.m */; };
 		7A610BE61BE16D67009C980A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A610BE51BE16D67009C980A /* AppDelegate.m */; };
 		7A610BE91BE16D67009C980A /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A610BE81BE16D67009C980A /* GameViewController.m */; };
-		7A610BEC1BE16D67009C980A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A610BEA1BE16D67009C980A /* Main.storyboard */; };
-		7A610BEE1BE16D67009C980A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A610BED1BE16D67009C980A /* Images.xcassets */; };
-		7A610BF11BE16D67009C980A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A610BEF1BE16D67009C980A /* LaunchScreen.xib */; };
 		7A610C0A1BE16DB7009C980A /* GameModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A610C091BE16DB7009C980A /* GameModel.m */; };
 		7A610C0D1BE16DFC009C980A /* LevelView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A610C0C1BE16DFC009C980A /* LevelView.m */; };
 		7A610C1A1BE5EE8C009C980A /* CharacterModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A610C191BE5EE8C009C980A /* CharacterModel.m */; };
@@ -347,15 +344,12 @@
 				7A7ECE631C0F846600A58967 /* ship-01.png in Resources */,
 				7A5AE0BC1C0A35E000675A40 /* temple_floor-01.png in Resources */,
 				7A7ECE591C0CD56400A58967 /* Level_1-01.txt in Resources */,
-				7A610BEC1BE16D67009C980A /* Main.storyboard in Resources */,
 				7A7ECE611C0CD9B300A58967 /* temple_walls-01.png in Resources */,
-				7A610BF11BE16D67009C980A /* LaunchScreen.xib in Resources */,
 				7A8083A01C02D0BF00F131D1 /* crab-01.png in Resources */,
 				7A7ECE5D1C0CD59D00A58967 /* Level_1-03.txt in Resources */,
 				7A8083851C0267C800F131D1 /* bitbeat1.mp3 in Resources */,
 				7A7ECE5B1C0CD58F00A58967 /* Level_1-02.txt in Resources */,
 				7A80838A1C0272DD00F131D1 /* squid-01.png in Resources */,
-				7A610BEE1BE16D67009C980A /* Images.xcassets in Resources */,
 				7A7ECE4F1C0CCFE200A58967 /* small_chest-01.png in Resources */,
 				7A9450D41BFD628600989549 /* items-01.png in Resources */,
 				7A7ECE4E1C0CCFE200A58967 /* scuba_pod-01.png in Resources */,
